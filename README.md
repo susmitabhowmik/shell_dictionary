@@ -1,0 +1,1 @@
+This is a shell script which will create 10 empty files using the last 10 words starting with the letter A from the file /usr/share/dict/words
